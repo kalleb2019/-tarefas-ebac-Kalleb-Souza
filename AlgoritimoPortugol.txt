@@ -1,0 +1,9 @@
+1 - Enquanto o despertador;
+2 - abrir o olho;
+3 - Pegar despertador; 
+4 - Desligar despertador;
+5 - Calçar o chinelo;
+6 - Ir a cozinha;
+7 - Tomar café;
+8 - Ir no banheiro;
+9 - Escovar os dentes;
