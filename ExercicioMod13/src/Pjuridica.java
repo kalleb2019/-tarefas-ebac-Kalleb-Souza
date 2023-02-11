@@ -17,4 +17,10 @@ public class Pjuridica extends Pessoas {
     public double calcularImposto(){
         return 0;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + " " + calcularImposto();
+
+    }
 }

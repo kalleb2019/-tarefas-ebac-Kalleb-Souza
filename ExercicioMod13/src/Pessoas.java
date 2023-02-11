@@ -42,5 +42,10 @@ public abstract class Pessoas {
     }
 
     public abstract double calcularImposto();
+    
+    @Override
+    public String toString(){
+        return this.getNome() +" "+this.getSobreNome()+" "+this.estado; 
+    }
 
 }
