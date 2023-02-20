@@ -54,8 +54,6 @@ public class App {
             if (valor == null) {
                 sair();
             }
-
-            System.out.println(valor);
         } while (!valor.equals("1") && !valor.equals("2") && !valor.equals("3") && !valor.equals("4")
                 && !valor.equals("5"));
 
