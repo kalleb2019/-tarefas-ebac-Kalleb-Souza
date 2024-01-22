@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String nome;
         System.out.println("Digite os nomes Separado por ',' ");
