@@ -1,0 +1,16 @@
+PILHA
+push   O(1)
+pop    O(1)
+
+FILA
+push   O(1)
+pop    O(N)
+Rear   O(1)
+Front  O(1)
+
+LISTA ENCADEADA
+push    O(1)
+pop     O(N)
+insert  O(N)
+remove  O(N)
+element O(N)
